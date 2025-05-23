@@ -87,7 +87,9 @@ cort.alph$SampleID<-row.names(cort.alph)
 cort.alph<-merge(cort.alph, meta, by='SampleID')
 
 #plot richness
-ggplot(cort.alph, aes(Antibiotic, `specnumber(cort_rare)`, fill=Fusarium))+
+cort.alph<-cort.alph[which(cort.alph$Fusarium == 'No'),]
+
+ggplot(cort.alph, aes(Antibiotic, `specnumber(cort_rare)`))+
   geom_boxplot()+
   theme_bw()+
   xlab("")+
