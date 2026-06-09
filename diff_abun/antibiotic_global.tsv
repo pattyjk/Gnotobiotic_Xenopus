@@ -1,0 +1,7 @@
+taxon	W	p_val	q_val	diff_abn	passed_ss	diff_robust_abn
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Stenotrophomonas;__	27.15378041665755	8.368155628895413e-9	5.020893377337248e-8	TRUE	TRUE	TRUE
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;__;__;__	24.243203432741208	1.4651864453473063e-8	7.325932226736531e-8	TRUE	TRUE	TRUE
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;__	1.43212378489649	0.49072678814731646	0.7818226173321238	FALSE	FALSE	FALSE
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Weeksellaceae;g__Chryseobacterium;__	6.804846600315453	6.029440230725335e-4	0.002411776092290134	TRUE	TRUE	TRUE
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;__	5.280081235270286	0.0033396919631911376	0.010019075889573414	TRUE	FALSE	FALSE
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;__;__	0.49495496155325136	0.3909113086660619	0.7818226173321238	FALSE	FALSE	FALSE
