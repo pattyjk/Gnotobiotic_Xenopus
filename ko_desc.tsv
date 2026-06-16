@@ -1,0 +1,61 @@
+taxon	name	desc	level_A	level_B	pathways
+K05593	aadK	aminoglycoside 6-adenylyltransferase [EC:2.7.7.-]	Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes
+K02022	ABC.MR.TX	HlyD family secretion protein	Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	Structural proteins
+K16898	addA	ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]	Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins
+K16899	addB	ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-]	Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins
+K06974	amzA, AMZ2, AMZ1	archaemetzincin [EC:3.4.-.-]	Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors
+K04516	AROA1, aroA	chorismate mutase [EC:5.4.99.5]	Metabolism	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis
+K01035	atoA	acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.8 2.8.3.9]	Metabolism; Environmental Information Processing	Carbohydrate metabolism; Amino acid metabolism; Xenobiotics biodegradation and metabolism; Signal transduction	Butanoate metabolism; Lysine degradation; Aminobenzoate degradation; Two-component system
+K07714	atoC	two-component system, NtrC family, response regulator AtoC	Environmental Information Processing	Signal transduction	Two-component system
+K01034	atoD	acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9]	Metabolism; Environmental Information Processing	Carbohydrate metabolism; Amino acid metabolism; Xenobiotics biodegradation and metabolism; Signal transduction	Butanoate metabolism; Lysine degradation; Aminobenzoate degradation; Two-component system
+K07710	atoS	two-component system, NtrC family, sensor histidine kinase AtoS [EC:2.7.13.3]	Environmental Information Processing	Signal transduction	Two-component system
+K15923	AXY8, FUC95A, afcA	alpha-L-fucosidase 2 [EC:3.2.1.51]	Metabolism	Glycan biosynthesis and metabolism	Other glycan degradation
+K19572	CECR1, ADA2	adenosine deaminase CECR1 [EC:3.5.4.4]	Metabolism	Nucleotide metabolism	Purine metabolism
+K18552	cmlA, cmlB, floR	MFS transporter, DHA1 family, chloramphenicol/florfenicol resistance protein	Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes
+K19419	epsG	transmembrane protein EpsG	Brite Hierarchies	Protein families: signaling and cellular processes	Transporters
+K03921	FAB2, SSI2, desA1	acyl-[acyl-carrier protein] desaturase [EC:1.14.19.2 1.14.19.11 1.14.19.26]	Metabolism	Lipid metabolism	Fatty acid biosynthesis; Mycolic acid biosynthesis; Biosynthesis of unsaturated fatty acids
+K01880	GARS, glyS1	glycyl-tRNA synthetase [EC:6.1.1.14]	Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis
+K10548	gguA	putative multiple sugar transport system ATP-binding protein [EC:7.5.2.-]	Environmental Information Processing	Membrane transport	ABC transporters
+K00098	idnD	L-idonate 5-dehydrogenase [EC:1.1.1.264]	Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers
+K02351	K02351	putative membrane protein	Poorly characterized	Poorly characterized	Function unknown
+K07086	K07086	uncharacterized protein	Not Included in Pathway or Brite	Poorly characterized	Function unknown
+K09749	K09749	uncharacterized protein	Not Included in Pathway or Brite	Poorly characterized	Function unknown
+K09992	K09992	uncharacterized protein	Not Included in Pathway or Brite	Poorly characterized	Function unknown
+K02526	kdgT	2-keto-3-deoxygluconate permease	Brite Hierarchies	Protein families: signaling and cellular processes	Transporters
+K01815	kduI	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K18384	L3HYPDH	trans-L-3-hydroxyproline dehydratase [EC:4.2.1.77]	Metabolism	Amino acid metabolism	Arginine and proline metabolism
+K03932	lpqC	polyhydroxybutyrate depolymerase	Not Included in Pathway or Brite	Unclassified: metabolism	Secondary metabolism
+K13650	mcbA	MqsR-controlled colanic acid and biofilm protein A	Brite Hierarchies	Protein families: signaling and cellular processes	Prokaryotic defense system
+K18785	mp2	beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [EC:2.4.1.319 2.4.1.320]	Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers
+K10924	mshA	MSHA pilin protein MshA	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K10926	mshC	MSHA pilin protein MshC	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K10927	mshD	MSHA pilin protein MshD	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12276	mshE	MSHA biogenesis protein MshE	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12278	mshG	MSHA biogenesis protein MshG	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12279	mshI	MSHA biogenesis protein MshI	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12282	mshL	MSHA biogenesis protein MshL	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12283	mshM	MSHA biogenesis protein MshM	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12284	mshN	MSHA biogenesis protein MshN	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12285	mshO	MSHA biogenesis protein MshO	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K12286	mshP	MSHA biogenesis protein MshP	Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae
+K10118	msmF	raffinose/stachyose/melibiose transport system permease protein	Environmental Information Processing	Membrane transport	ABC transporters
+K10119	msmG	raffinose/stachyose/melibiose transport system permease protein	Environmental Information Processing	Membrane transport	ABC transporters
+K12267	msrAB	peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers
+K07456	mutS2	DNA mismatch repair protein MutS2	Genetic Information Processing	Replication and repair	Mismatch repair
+K01597	MVD, mvaD	diphosphomevalonate decarboxylase [EC:4.1.1.33]	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis
+K00869	MVK, mvaK1	mevalonate kinase [EC:2.7.1.36]	Metabolism; Cellular Processes	Metabolism of terpenoids and polyketides; Transport and catabolism	Terpenoid backbone biosynthesis; Peroxisome
+K06881	nrnA	bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]	Metabolism	Energy metabolism	Sulfur metabolism
+K01728	pel	pectate lyase [EC:4.2.2.2]	Metabolism; Cellular Processes	Carbohydrate metabolism; Cellular community - prokaryotes	Pentose and glucuronate interconversions; Quorum sensing
+K04518	pheA2	prephenate dehydratase [EC:4.2.1.51]	Metabolism	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis
+K06998	phzF	trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]	Metabolism; Cellular Processes	Biosynthesis of other secondary metabolites; Cellular community - prokaryotes	Phenazine biosynthesis; Quorum sensing
+K01771	plc	1-phosphatidylinositol phosphodiesterase [EC:4.6.1.13]	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism
+K01820	rhaA	L-rhamnose isomerase / sugar isomerase [EC:5.3.1.14 5.3.1.-]	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+K18682	rny	ribonucrease Y [EC:3.1.-.-]	Genetic Information Processing	Folding, sorting and degradation	RNA degradation
+K00980	tagD	glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]	Metabolism	Lipid metabolism	Glycerophospholipid metabolism
+K00949	thiN, TPK1, THI80	thiamine pyrophosphokinase [EC:2.7.6.2]	Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism
+K06442	tlyA	23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	Brite Hierarchies	Protein families: genetic information processing	Ribosome biogenesis
+K16138	uidR	TetR/AcrR family transcriptional regulator, repressor for uid operon	Brite Hierarchies	Protein families: genetic information processing	Transcription factors
+K08678	UXS1, uxs	UDP-glucuronate decarboxylase [EC:4.1.1.35]	Metabolism	Glycan biosynthesis and metabolism	Amino sugar and nucleotide sugar metabolism
+K13018	wbpD, wlbB	UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase [EC:2.3.1.201]	Metabolism	Glycan biosynthesis and metabolism	Biosynthesis of various nucleotide sugars
+K03931	ygjK	glucosidase [EC:3.2.1.-]	Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers
+K19701	ywaD	aminopeptidase YwaD [EC:3.4.11.6 3.4.11.10]	Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors
