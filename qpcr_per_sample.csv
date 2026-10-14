@@ -1,0 +1,54 @@
+"SampleID","Group","Antibiotic","Fusarium","FusariumDose","LogCopy"
+"S1","Trimethoprim","Trimethoprim","No","0",4.007708692
+"S10","Fk","None","Yes","100",4.0043750775
+"S11","Ampicillin","Ampicillin","No","0",3.612031847
+"S12","Ampicillin","Ampicillin","No","0",3.3573206225
+"S13","Ampicillin","Ampicillin","No","0",3.845995106
+"S14","Ampicillin","Ampicillin","No","0",3.847733397
+"S15","AllAB + Fk","AllAB","Yes","100000",3.7798063845
+"S16","Control","Control","No","0",4.0134591735
+"S17","PSN","PSN","No","0",3.6779209535
+"S18","AllAB","AllAB","No","0",4.07763039
+"S19","AllAB + Fk","AllAB","Yes","100000",3.1780118455
+"S2","Trimethoprim","Trimethoprim","No","0",3.8298046715
+"S20","AllAB + Fk","AllAB","Yes","1000",3.4074899565
+"S21","AllAB","AllAB","No","0",4.126367576
+"S22","AllAB + Fk","AllAB","Yes","1000",3.3260116435
+"S23","AllAB + Fk","AllAB","Yes","1000",3.193089933
+"S24","Fk","None","Yes","10000",3.449300078
+"S25","Fk","None","Yes","10000",3.420707622
+"S26","Fk","None","Yes","10000",3.8531553925
+"S27","Fk","None","Yes","100",3.836932667
+"S28","Fk","None","Yes","100000",3.484845351
+"S29","Fk","None","Yes","100000",3.6145281405
+"S3","Gentamicin","Gentamicin","No","0",3.8441253565
+"S30","Fk","None","Yes","100000",3.6781883455
+"S31","Fk","None","Yes","1000",3.093529364
+"S32","Fk","None","Yes","1000",3.3742948145
+"S33","Control","Control","No","0",4.196106065
+"S34","Fk","None","Yes","100",3.6782484675
+"S35","Fk","None","Yes","100",3.4002504955
+"S36","AllAB","AllAB","No","0",3.8628316985
+"S37","Fk","None","Yes","100",2.971645112
+"S38","Fk","None","Yes","100000",3.172532254
+"S39","Fk","None","Yes","100000",2.9794512245
+"S4","Gentamicin","Gentamicin","No","0",3.763774523
+"S40","Fk","None","Yes","100000",3.88937748
+"S41","PSN","PSN","No","0",3.8807174285
+"S42","Fk","None","Yes","10000",3.7892669585
+"S43","PSN","PSN","No","0",3.907013357
+"S44","Sulfamethazine","Sulfamethazine","No","0",3.8301923805
+"S45","Control","Control","No","0",3.714125508
+"S46","Control","Control","No","0",3.8577295765
+"S47","Control","Control","No","0",3.5582433915
+"S48","Trimethoprim","Trimethoprim","No","0",3.3277503265
+"S49","Trimethoprim","Trimethoprim","No","0",3.7988834325
+"S5","Trimethoprim","Trimethoprim","No","0",3.913286775
+"S50","Gentamicin","Gentamicin","No","0",3.6343800015
+"S51","Trimethoprim","Trimethoprim","No","0",3.610470373
+"S52","Trimethoprim","Trimethoprim","No","0",3.9405955685
+"S53","Sulfamethazine","Sulfamethazine","No","0",3.8931021275
+"S6","Trimethoprim","Trimethoprim","No","0",3.55888884
+"S7","Gentamicin","Gentamicin","No","0",3.612208059
+"S8","Gentamicin","Gentamicin","No","0",3.456536697
+"S9","Sulfamethazine","Sulfamethazine","No","0",3.2748624625

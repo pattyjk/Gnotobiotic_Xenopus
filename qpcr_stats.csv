@@ -1,0 +1,10 @@
+"contrast","n1","n2","delta_log10","fold","p"
+"Ampicillin vs Control",4,5,-0.129,0.74,0.27
+"AllAB vs Control",3,5,0.22,1.66,0.371
+"PSN vs Control",3,5,0.023,1.05,1
+"Sulfamethazine vs Control",3,5,-0.028,0.94,0.551
+"Gentamicin vs Control",5,5,-0.223,0.6,0.21
+"Trimethoprim vs Control",8,5,-0.043,0.9,0.51
+"Fk vs Control",17,5,-0.373,0.42,0.0344
+"AllAB + Fk vs AllAB",5,3,-0.752,0.18,0.0369
+"AllAB + Fk vs Fk",5,17,-0.159,0.69,0.347
